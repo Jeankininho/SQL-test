@@ -1,3 +1,2 @@
-create table Customer(
-	Oid int primary key identity,
-)
+alter table Customer
+add Name varchar(1000)
