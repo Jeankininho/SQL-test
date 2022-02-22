@@ -1,0 +1,11 @@
+diff --git a/Table/Customer.sql b/Table/Customer.sql
+index 35554a5..f713536 100644
+--- a/Table/Customer.sql
++++ b/Table/Customer.sql
+@@ -1,3 +1 @@
+-create table Customer(
+-	Oid int primary key identity
+-)
+\ No newline at end of file
++drop table Customer
+\ No newline at end of file

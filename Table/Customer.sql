@@ -1,3 +1,1 @@
-create table Customer(
-	Oid int primary key identity
-)
+drop table Customer
