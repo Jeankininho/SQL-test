@@ -1,8 +1,8 @@
 cd /d D:\SQLGit
-cd D:\SQLGit\Tables
+cd D:\SQLGit\Table
 git add ../z_Logs/
-git add ChangeEvent.sql
+git add Customer.sql
 git add -f .
-git commit -a -m "Inserindo dados"
+git commit -a -m "Tabela Customer inserida"
 git push
 exit
